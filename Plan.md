@@ -72,6 +72,9 @@ Trong phương pháp “Ask” ta dùng bảng câu hỏi để khảo sát số
 ![Picture2](https://lh3.googleusercontent.com/d/19e6a8_4g77y6KDf19jn4QOZGyS4ZyEPs)
 ![Picture4](https://lh3.googleusercontent.com/d/1diTEpvjiL884Ego1BMu__l1Fj1cZz5Rz)
 
+➔Đa số người dành thời gian cho việc đọc nhất hiện nay là sinh viên, và số lượng người và tần suất bị mất tập trung khi đọc cũng không phải là quá thấp. Nên có thể coi đây là một vấn đề cần đầu tư để giải quyết chứ không thể bỏ qua.
+
+
 **Bảng câu hỏi thăm dò hành vi đọc của đọc giả**
 
 Thang 1-5 (1 Hoàn toàn không đồng ý- 2 Không đồng ý lắm- 3 Bình thường- 4 Đồng ý- 5 Rất đồng ý)
@@ -114,6 +117,15 @@ Bạn hay đọc loại tài liệu gì nhất trong tuần vừa rồi? (giáo 
 Kể cho mình nghe lần gần nhất bạn đọc một bài dài mà bị mất tập trung — chuyện gì đã xảy ra?
 Bạn có dùng công cụ/app nào để giúp mình tập trung khi đọc không? Nó giúp được gì, và còn thiếu gì?
 
+
+
+### Observe
+
+Trong phương pháp “Observe” ta dùng cách “Ethnography” đối tượng được ưu tiên quan sát sẽ là một sinh viên đại học năm ba vì theo khảo sát thì sinh viên là nhóm người dùng có số lượng đông nhất:
+
+Bạn L thường hay phải lên các website trên mạng để đọc các tài liệu chuyên ngành, tuy nhiên bên cạnh tab tài liệu bạn còn bật các tab khác như facebook, chatGPT, youtube, … để thuận tiện cho việc liên lạc và tra cứu tức thì. Sau khi chuyển tab thì bạn đã mất tập trung và phải rê chuột để tìm lại đoạn vừa đọc và đọc lại đoạn đó một lần nữa vì có vẻ như bạn đã sự tập trung và không cô đọng được kiến thức vừa đọc.
+
+➔ReadPace thật sự cần thiết để hỗ trợ cho sinh viên đọc văn bản tốt hơn và hiệu suất học tập cao hơn 
 
 
 ### 3.3. Thiết kế giao diện & tương tác
