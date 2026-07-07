@@ -56,7 +56,65 @@ Các nhánh còn lại (Người/Đọc giả, Ngôn ngữ, Thể loại nội d
 *(Sẽ bổ sung sau khi có kết quả phỏng vấn 5 end-users — mục 3.2)*
 
 ### 3.2. User Discovery
-*(Sẽ bổ sung sau)*
+
+Kết hợp giữa hai phương pháp là “Ask” và “Observe” để khảo sát và khám phá người dùng.
+
+### Ask
+Trong phương pháp “Ask” ta dùng bảng câu hỏi để khảo sát số lượng lớn dữ liệu người dùng và phỏng vấn trực tiếp để khai thác thông tin các người dùng cốt yếu nhằm xây dựng các chức năng cho hệ thống.
+
+**Bảng câu hỏi sàng lọc, gom nhóm đối tượng**
+ 
+1.	Bạn thuộc nhóm nào? (Sinh viên / Người đi làm / Khác) 
+2.	Trung bình mỗi ngày bạn đọc sách, truyện bao nhiêu phút trong một ngày? (Dưới 20 phút / Từ 20 đến 60 phút / Từ 61 đến 180 phút/ Trên 180 phút) 
+3.	Bạn có tự nhận thấy mình khó tập trung khi đọc văn bản dài không? (Có hẳn / Thỉnh thoảng / Hiếm khi / Không bao giờ)
+
+![Picture1](https://lh3.googleusercontent.com/d/1RcjrWKg1Kr08VdQ4yXkx6X5FfhpkzkD5)
+![Picture2](https://lh3.googleusercontent.com/d/19e6a8_4g77y6KDf19jn4QOZGyS4ZyEPs)
+![Picture4](https://lh3.googleusercontent.com/d/1diTEpvjiL884Ego1BMu__l1Fj1cZz5Rz)
+
+**Bảng câu hỏi thăm dò hành vi đọc của đọc giả**
+
+Thang 1-5 (1 Hoàn toàn không đồng ý- 2 Không đồng ý lắm- 3 Bình thường- 4 Đồng ý- 5 Rất đồng ý)
+
+4.	Bạn thường phải đọc lại một đoạn văn nhiều lần mới hiểu.
+5.	Bạn hay bị mất chỗ đang đọc khi nhìn ra chỗ khác rồi quay lại.
+6.	Bạn thường bỏ dở câu truyện/đoạn văn giữa chừng vì mất tập trung.
+7.	Bạn thấy các trang truyện/tài liệu hiện tại quá dày đặc chữ, gây ngợp.
+8.	Bạn muốn biết mình còn bao nhiêu nội dung nữa mới đọc xong.
+9.	Bạn thấy các công cụ hỗ trợ đọc hiện có (Kindle, Bionic Reading, v.v.) chưa thực sự giải quyết được vấn đề tập trung của bạn.
+10.	Bạn muốn đọc lại một đoạn văn yêu thích trong một tác phẩm đã đọc nhưng không tìm lại được đoạn đó.
+
+Theo dự kiến cần từ 40% người dùng chọn câu trả lời là thang 4-5 là đạt chỉ tiêu để chỉ ra tính thực tế và cần thiết của dự án này.
+Dựa theo mẫu 9 câu trả lời thu thập được ta có các biểu đồ chính quan trọng là nền tảng để phát triển các chức năng về sau như dưới đây:
+
+![Picture3](https://lh3.googleusercontent.com/d/12BxrafWm9H2TV7h6VGq6whceBY4naCfd)
+![Picture5](https://lh3.googleusercontent.com/d/1Toh9dtMmqAh5BkDxKYR8a0XjwTB9x2Pc)
+![Picture6](https://lh3.googleusercontent.com/d/15WbdTE4pmRqQAV5MsrW0kTOay9bsFA_U)
+![Picture9](https://lh3.googleusercontent.com/d/1qu7GoV4roz51jPpqNdaVC3X-DJRG45bK)
+
+➔Từ những biểu đồ ở trên ta có thể nói rằng nhu cầu cần tập trung của người dùng là rất quan trọng và từ đó sinh ra chức năng cốt lỗi của hệ thống đó chính là Focus Window chỉ tập trung vào nội dung ở giữa và làm mờ đi phần trên và phần dưới.
+
+![Picture7](https://lh3.googleusercontent.com/d/17CfmYtlD8m92oR8_zS-DfkassuX3bbmF)
+
+➔Không cần chú trọng thêm vào phần này nhưng có thể tối ưu trải nghiệm cho người dùng bằng cách cho phép họ điều chỉnh font chữ, kiểu chữ, màu nền,…..
+
+![Picture8](https://lh3.googleusercontent.com/d/1clcJdSgpFvrJwDQY6V4o7brZxkXrWing)
+
+➔Thêm tính năng hiển thị thanh tiến trình cho người dùng có cảm giác đạt được thành tụ
+
+![Picture10](https://lh3.googleusercontent.com/d/19tW5JlFvJkyEuQ4R66EWuciuPXGv2LCN)
+
+➔Thêm tính năng lưu chương, đoạn, trang… yêu thích
+
+
+**Một số câu hỏi chính khi phỏng vấn**
+
+Bạn hay đọc loại tài liệu gì nhất trong tuần vừa rồi? (giáo trình, tin tức, mạng xã hội, tài liệu công việc...)
+Ứng dụng/trang web đọc nào bạn thấy khó chịu nhất khi dùng? Vì sao?
+Kể cho mình nghe lần gần nhất bạn đọc một bài dài mà bị mất tập trung — chuyện gì đã xảy ra?
+Bạn có dùng công cụ/app nào để giúp mình tập trung khi đọc không? Nó giúp được gì, và còn thiếu gì?
+
+
 
 ### 3.3. Thiết kế giao diện & tương tác
 
