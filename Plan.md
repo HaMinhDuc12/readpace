@@ -213,9 +213,9 @@ Thiết kế A/B: cùng một đoạn văn, đọc có/không có ReadPace, đo 
 
 | Mức ưu tiên | Tính năng | Lý do |
 |---|---|---|
-| P0 — Lõi (bắt buộc, nộp giữa kỳ) | Auto-scroll cá nhân hoá + Focus Window (blur động) | Giải quyết trực tiếp vấn đề ở mục 1.2, là một cơ chế tích hợp duy nhất |
-| P1 — Hỗ trợ (nếu đủ thời gian, nộp cuối kỳ) | Tuỳ biến font/cỡ chữ/màu nền (giới hạn màu an toàn cho mắt); Lưu chương/đoạn yêu thích | Đơn giản để triển khai, không xung đột với cơ chế lõi |
-| P2 — Mở rộng (tương lai, không bắt buộc) | Micro-break prompts, Semantic progress bar theo khối ý | Cần thêm xử lý NLP để tách khối ý tự động — vượt phạm vi 11 tuần |
+| P0 — Lõi| Auto-scroll cá nhân hoá + Focus Window (blur động) | Giải quyết trực tiếp vấn đề ở mục 1.2, là một cơ chế tích hợp duy nhất |
+| P1 — Hỗ trợ | Tuỳ biến font/cỡ chữ/màu nền (giới hạn màu an toàn cho mắt); Lưu chương/đoạn yêu thích | Đơn giản để triển khai, không xung đột với cơ chế lõi |
+| P2 — Mở rộng| Micro-break prompts, Semantic progress bar theo khối ý | Cần thêm xử lý NLP để tách khối ý tự động — vượt phạm vi 11 tuần |
 
 ---
 
