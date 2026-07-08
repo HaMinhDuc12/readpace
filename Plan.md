@@ -70,9 +70,9 @@ Trong phương pháp “Ask” ta dùng bảng câu hỏi để khảo sát số
 2.	Trung bình mỗi ngày bạn đọc sách, truyện bao nhiêu phút trong một ngày? (Dưới 20 phút / Từ 20 đến 60 phút / Từ 61 đến 180 phút/ Trên 180 phút) 
 3.	Bạn có tự nhận thấy mình khó tập trung khi đọc văn bản dài không? (Có hẳn / Thỉnh thoảng / Hiếm khi / Không bao giờ)
 
-![Picture1](https://lh3.googleusercontent.com/d/1RcjrWKg1Kr08VdQ4yXkx6X5FfhpkzkD5)
-![Picture2](https://lh3.googleusercontent.com/d/19e6a8_4g77y6KDf19jn4QOZGyS4ZyEPs)
-![Picture4](https://lh3.googleusercontent.com/d/1diTEpvjiL884Ego1BMu__l1Fj1cZz5Rz)
+<img src="https://lh3.googleusercontent.com/d/1RcjrWKg1Kr08VdQ4yXkx6X5FfhpkzkD5" width="70%" />
+<img src="https://lh3.googleusercontent.com/d/19e6a8_4g77y6KDf19jn4QOZGyS4ZyEPs" width="70%" />
+<img src="https://lh3.googleusercontent.com/d/1diTEpvjiL884Ego1BMu__l1Fj1cZz5Rz" width="70%" />
 
 ➔Đa số người dành thời gian cho việc đọc nhất hiện nay là sinh viên, và số lượng người và tần suất bị mất tập trung khi đọc cũng không phải là quá thấp. Nên có thể coi đây là một vấn đề cần đầu tư để giải quyết chứ không thể bỏ qua.
 
@@ -92,22 +92,22 @@ Thang 1-5 (1 Hoàn toàn không đồng ý- 2 Không đồng ý lắm- 3 Bình t
 Theo dự kiến cần từ 40% người dùng chọn câu trả lời là thang 4-5 là đạt chỉ tiêu để chỉ ra tính thực tế và cần thiết của dự án này.
 Dựa theo mẫu 9 câu trả lời thu thập được ta có các biểu đồ chính quan trọng là nền tảng để phát triển các chức năng về sau như dưới đây:
 
-![Picture3](https://lh3.googleusercontent.com/d/12BxrafWm9H2TV7h6VGq6whceBY4naCfd)
-![Picture5](https://lh3.googleusercontent.com/d/1Toh9dtMmqAh5BkDxKYR8a0XjwTB9x2Pc)
-![Picture6](https://lh3.googleusercontent.com/d/15WbdTE4pmRqQAV5MsrW0kTOay9bsFA_U)
-![Picture9](https://lh3.googleusercontent.com/d/1qu7GoV4roz51jPpqNdaVC3X-DJRG45bK)
+<img src="https://lh3.googleusercontent.com/d/12BxrafWm9H2TV7h6VGq6whceBY4naCfd" width="70%" />
+<img src="https://lh3.googleusercontent.com/d/1Toh9dtMmqAh5BkDxKYR8a0XjwTB9x2Pc" width="70%" />
+<img src="https://lh3.googleusercontent.com/d/15WbdTE4pmRqQAV5MsrW0kTOay9bsFA_U" width="70%" />
+<img src="https://lh3.googleusercontent.com/d/1qu7GoV4roz51jPpqNdaVC3X-DJRG45bK" width="70%" />
 
 ➔Từ những biểu đồ ở trên ta có thể nói rằng nhu cầu cần tập trung của người dùng là rất quan trọng và từ đó sinh ra chức năng cốt lỗi của hệ thống đó chính là Focus Window chỉ tập trung vào nội dung ở giữa và làm mờ đi phần trên và phần dưới.
 
-![Picture7](https://lh3.googleusercontent.com/d/17CfmYtlD8m92oR8_zS-DfkassuX3bbmF)
+<img src="https://lh3.googleusercontent.com/d/17CfmYtlD8m92oR8_zS-DfkassuX3bbmF" width="70%" />
 
 ➔Không cần chú trọng thêm vào phần này nhưng có thể tối ưu trải nghiệm cho người dùng bằng cách cho phép họ điều chỉnh font chữ, kiểu chữ, màu nền,…..
 
-![Picture8](https://lh3.googleusercontent.com/d/1clcJdSgpFvrJwDQY6V4o7brZxkXrWing)
+<img src="https://lh3.googleusercontent.com/d/1clcJdSgpFvrJwDQY6V4o7brZxkXrWing" width="70%" />
 
 ➔Thêm tính năng hiển thị thanh tiến trình cho người dùng có cảm giác đạt được thành tụ
 
-![Picture10](https://lh3.googleusercontent.com/d/19tW5JlFvJkyEuQ4R66EWuciuPXGv2LCN)
+<img src="https://lh3.googleusercontent.com/d/19tW5JlFvJkyEuQ4R66EWuciuPXGv2LCN" width="70%" />
 
 ➔Thêm tính năng lưu chương, đoạn, trang… yêu thích
 
@@ -154,11 +154,15 @@ Dựa trên các rào cản về mặt nhận thức và thị giác đã phát 
 * **Ngắt đoạn thông minh và Điểm nghỉ vi mô (Smart Chunking & Micro-break Prompts):**
     * *Mô tả:* Giảm hội chứng "ngại đọc" và quá tải thông tin khi đối mặt với các khối văn bản có mật độ chữ dày đặc.
     * *Cơ chế tương tác:* Dựa trên thuật toán phân tích độ dài đoạn văn và thời gian đọc liên tục, UI sẽ tự động tính toán để chèn các khoảng dừng thị giác ngắn (khoảng 3 giây "thở" - micro-breaks) tại các điểm ngắt ý tự nhiên (kết thúc một phân đoạn, không ngắt giữa câu). Điều này giúp não bộ có thời gian cô đọng kiến thức trước khi tiếp tục.
+ * **Up file để định dạng đọc (Upload the file to a readable format):**
+    * *Mô tả:* Cho phép người dùng up file text thô để dùng các chức năng của ứng dụng để hỗ trợ đọc.
+    * *Cơ chế tương tác:* Dựa trên thuật toán phân tích độ dài đoạn văn và các dấu câu để tự động định dạng lại file ban đầu(ngắt đoạn, dãn đoạn, kiểu chữ, cỡ chữ) đồng thời cho phép sử dụng chức năng “Focus windown” để người dùng đọc dễ hơn.
+
 
 ### 3.3.2. Nhóm chức năng điều hướng và Cấu trúc nội dung (Navigation & Structure)
 
 * **Thanh tiến trình ngữ nghĩa (Semantic Progress Bar):**
-    * *Mô tả:* Thay thế cho các thanh tiến trình hiển thị phần trăm (%) tuyến tính truyền thống vốn không đem lại nhiều giá trị về mặt thông tin, từ đó củng cố tâm lý kiểm soát (Locus of Control) cho người đọc.
+    * *Mô tả:* Thay thế cho các thanh tiến trình hiển thị phần trăm (%) từ đó củng cố tâm lý kiểm soát (Locus of Control) cho người đọc.
     * *Cơ chế tương tác:* Thanh tiến trình được thiết kế trực quan, phân chia rõ ràng theo từng "khối ý chính" hoặc phân đoạn nội dung của bài viết. Người dùng có thể nhìn vào để biết mình đang ở phân đoạn kiến thức nào và cấu trúc tổng thể của tài liệu ra sao.
 
 ### 3.3.3. Nhóm chức năng Quản lý cá nhân (Library & Personalization)
